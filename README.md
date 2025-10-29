@@ -30,6 +30,6 @@ Automatización: Participación en la automatización de procesos con PLCs y pro
 Siempre estoy buscando aprender más y aplicar mis conocimientos en proyectos reales. Me interesa colaborar en proyectos desafiantes donde pueda aportar mi visión técnica, resolutiva y mi experiencia en gestión (planificación, ejecución, resolución de incidencias, liderazgo).
 
 📬 Conecta Conmigo
-LinkedIn: https://www.linkedin.com/in/jose-enrique-martí-inglés-b7b519229/
+LinkedIn: [https://www.linkedin.com/in/jose-enrique-martí-inglés-b7b519229/](https://www.linkedin.com/in/jose-enrique-mart%C3%AD-ingl%C3%A9s-b7b519229/)
 
 Email: Jose.martiingles@gmail.com
