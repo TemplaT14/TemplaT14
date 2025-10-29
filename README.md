@@ -1,16 +1,35 @@
-## Hi there 👋
+💻 ¡Hola! Soy Jose Enrique Martí Inglés, alias TemplaT14 👋
+🚀 Transicionando del Sector Eléctrico al Desarrollo Multimedia
+Tras más de 20 años de sólida experiencia en el sector eléctrico, he iniciado una nueva y apasionante etapa profesional formándome en Desarrollo de Aplicaciones Multimedia (DAM).
 
-<!--
-**TemplaT14/TemplaT14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Esta transición refleja mi gran capacidad de adaptación, mi pasión por aprender y mi deseo constante de crecimiento profesional.
 
-Here are some ideas to get you started:
+💡 Mis Fortalezas
+Mi experiencia previa como técnico jefe y electricista autónomo me ha dotado de un fuerte sentido técnico, pensamiento lógico y compromiso con el trabajo bien hecho.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ahora, aplico estas cualidades al mundo del desarrollo y la programación, con un enfoque en la intersección entre tecnología, creatividad y experiencia de usuario.
+
+🛠️ Habilidades Técnicas Clave
+Actualmente estoy cursando el segundo año del Grado Superior en DAM en el IES Serpis, donde he adquirido conocimientos en:
+
+Programación: Java, SQL.
+
+Desarrollo Web: HTML, CSS, JavaScript.
+
+Sistemas Informáticos.
+
+Control de Versiones: Git y GitHub.
+
+Metodologías: Metodologías ágiles (SCRUM).
+
+Lenguajes de Marcas: XML, DTD y XSD.
+
+Automatización: Participación en la automatización de procesos con PLCs y programación de maquinaria (experiencia previa en el sector eléctrico, ¡ahora aplicado a software!).
+
+📈 ¿Qué Busco?
+Siempre estoy buscando aprender más y aplicar mis conocimientos en proyectos reales. Me interesa colaborar en proyectos desafiantes donde pueda aportar mi visión técnica, resolutiva y mi experiencia en gestión (planificación, ejecución, resolución de incidencias, liderazgo).
+
+📬 Conecta Conmigo
+LinkedIn: https://www.linkedin.com/in/jose-enrique-martí-inglés-b7b519229/
+
+Email: Jose.martiingles@gmail.com
