@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbF6n0T6T1zY5hXU/giphy.gif" width="60"/> 
+  <img src="https://media.giphy.com/media/M9gbF6n0T6T1zY5hXU/giphy.gif" width="600"/> 
   <h1>¡Hola! Soy Jose, alias TemplaT14 👋</h1>
 </div>
 
