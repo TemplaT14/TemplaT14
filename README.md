@@ -44,7 +44,7 @@ Puedes añadir estadísticas dinámicas que se actualizan automáticamente.
 
 markdown
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=vue-dark&hide_title=true](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=vue-dark&hide_title=true)" alt="Tu Estadística de GitHub" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=TemplaT14&show_icons=true&theme=vue-dark&hide_title=true](https://github-readme-stats.vercel.app/api?username=TemplaT14&show_icons=true&theme=vue-dark&hide_title=true)" alt="Tu Estadística de GitHub" />
   
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=vue-dark&hide_title=true](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=vue-dark&hide_title=true)" alt="Lenguajes más usados" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=TemplaT14&layout=compact&theme=vue-dark&hide_title=true](https://github-readme-stats.vercel.app/api/top-langs/?username=TemplaT14&layout=compact&theme=vue-dark&hide_title=true)" alt="Lenguajes más usados" />
 </div>
