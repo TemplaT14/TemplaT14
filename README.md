@@ -1,49 +1,60 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbF6n0T6T1zY5hXU/giphy.gif" width="600"/> 
-  <h1>¡Hola! Soy Jose, alias TemplaT14 👋</h1>
+  <img src="https://media.giphy.com/media/M9gbF6n0T6T1zY5hXU/giphy.gif" width="60"/> 
+  <h1>¡Hola! Soy Jose Enrique Martí Inglés 👋</h1>
+  <h3>Del sector Eléctrico al Desarrollo de Aplicaciones Multiplataforma</h3>
 </div>
 
-🚀 Transicionando del Sector Eléctrico al Desarrollo Multimedia
-Tras más de 20 años de sólida experiencia en el sector eléctrico, he iniciado una nueva y apasionante etapa profesional formándome en Desarrollo de Aplicaciones Multimedia (DAM).
+---
 
-Esta transición refleja mi gran capacidad de adaptación, mi pasión por aprender y mi deseo constante de crecimiento profesional.
+### 👤 Sobre Mí: La Lógica en el Código
 
-💡 Mis Fortalezas
-Mi experiencia previa como técnico jefe y electricista autónomo me ha dotado de un fuerte sentido técnico, pensamiento lógico y compromiso con el trabajo bien hecho.
+Soy un desarrollador en formación con una **sólida base técnica y lógica** construida a lo largo de más de 20 años en el sector eléctrico. Esta trayectoria me ha dotado de un fuerte **pensamiento lógico, capacidad resolutiva** y un compromiso con el trabajo bien hecho.
 
-Ahora, aplico estas cualidades al mundo del desarrollo y la programación, con un enfoque en la intersección entre tecnología, creatividad y experiencia de usuario.
+Actualmente, estoy aplicando estas cualidades directamente en el código:
 
-🛠️ Habilidades Técnicas Clave
-Actualmente estoy cursando el segundo año del Grado Superior en DAM en el IES Serpis, donde he adquirido conocimientos en:
+* **🎓 Formación Actual:** Cursando el segundo año del Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)** en el IES Serpis.
+* **💡 Enfoque:** Interesado especialmente en la intersección entre la tecnología, la creatividad y la experiencia de usuario.
+* **⚙️ Experiencia Clave:** Mi rol como Técnico Jefe me proporcionó experiencia en **automatización de procesos con PLCs y programación de maquinaria**, lo cual me facilita la comprensión de la lógica de sistemas.
 
-Programación: Java, SQL.
+---
 
-Desarrollo Web: HTML, CSS, JavaScript.
+### 🛠️ Tecnologías y Habilidades de DAM
 
-Sistemas Informáticos.
+Mis conocimientos se centran en el ecosistema DAM, priorizando las tecnologías de alto rendimiento y robustez:
 
-Control de Versiones: Git y GitHub.
+| Área | Habilidades y Tecnologías |
+| :--- | :--- |
+| **Backend & POO** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Bases de Datos** | ![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Web & Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Lenguajes de Marcas** | ![XML](https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white) |
+| **Herramientas & Metodología** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![SCRUM](https://img.shields.io/badge/SCRUM-00A9E0?style=for-the-badge&logo=scrumalliance&logoColor=white) |
 
-Metodologías: Metodologías ágiles (SCRUM).
+---
 
-Lenguajes de Marcas: XML, DTD y XSD.
+### 🚀 Principios de Desarrollo y Calidad de Código
 
-Automatización: Participación en la automatización de procesos con PLCs y programación de maquinaria (experiencia previa en el sector eléctrico, ¡ahora aplicado a software!).
+Mi aprendizaje se centra en construir software de alta calidad, poniendo énfasis en la estructura y el mantenimiento:
 
-📈 ¿Qué Busco?
-Siempre estoy buscando aprender más y aplicar mis conocimientos en proyectos reales. Me interesa colaborar en proyectos desafiantes donde pueda aportar mi visión técnica, resolutiva y mi experiencia en gestión (planificación, ejecución, resolución de incidencias, liderazgo).
+1.  **Arquitectura Modular (MVC):** Aplico el patrón **Modelo-Vista-Controlador** (MVC) para asegurar la separación de responsabilidades, facilitando la escalabilidad y las pruebas.
+2.  **Modulación y Código Limpio:** Priorizo la escritura de código legible, con convenciones de nomenclatura adecuadas y aplicando la encapsulación para crear componentes reutilizables.
+3.  **Control de Versiones:** Uso profesional de Git y GitHub para la colaboración, control del historial de commits y gestión eficiente de ramas.
 
-📬 Conecta Conmigo
-LinkedIn: [https://www.linkedin.com/in/jose-enrique-martí-inglés-b7b519229/](https://www.linkedin.com/in/jose-enrique-mart%C3%AD-ingl%C3%A9s-b7b519229/)
-
-Email: Jose.martiingles@gmail.com
+---
 
 ### 📊 Mis Estadísticas de GitHub
 
-Puedes añadir estadísticas dinámicas que se actualizan automáticamente.
-
-markdown
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TemplaT14&show_icons=true&theme=vue-dark&hide_title=true" alt="Tu Estadística de GitHub" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=TemplaT14&show_icons=true&theme=vue-dark&hide_title=true" alt="Estadísticas de GitHub" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemplaT14&layout=compact&theme=vue-dark&hide_title=true" alt="Lenguajes más usados" />
 </div>
+
+---
+
+### 🤝 Conectemos
+
+Siempre estoy abierto/a a colaborar o simplemente charlar sobre desarrollo, ¡no dudes en contactarme!
+
+* **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-enrique-martí-inglés-b7b519229/)
+* **Correo Electrónico:** [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.martiingles@gmail.com)
