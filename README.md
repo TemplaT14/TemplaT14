@@ -1,4 +1,8 @@
-💻 ¡Hola! Soy Jose Enrique Martí Inglés, alias TemplaT14 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbF6n0T6T1zY5hXU/giphy.gif" width="60"/> 
+  <h1>¡Hola! Soy Jose, alias TemplaT14 👋</h1>
+</div>
+
 🚀 Transicionando del Sector Eléctrico al Desarrollo Multimedia
 Tras más de 20 años de sólida experiencia en el sector eléctrico, he iniciado una nueva y apasionante etapa profesional formándome en Desarrollo de Aplicaciones Multimedia (DAM).
 
@@ -33,3 +37,14 @@ Siempre estoy buscando aprender más y aplicar mis conocimientos en proyectos re
 LinkedIn: [https://www.linkedin.com/in/jose-enrique-martí-inglés-b7b519229/](https://www.linkedin.com/in/jose-enrique-mart%C3%AD-ingl%C3%A9s-b7b519229/)
 
 Email: Jose.martiingles@gmail.com
+
+### 📊 Mis Estadísticas de GitHub
+
+Puedes añadir estadísticas dinámicas que se actualizan automáticamente.
+
+markdown
+<div align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=vue-dark&hide_title=true](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=vue-dark&hide_title=true)" alt="Tu Estadística de GitHub" />
+  
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=vue-dark&hide_title=true](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=vue-dark&hide_title=true)" alt="Lenguajes más usados" />
+</div>
