@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQU1CHmSSEE7T2l57/giphy.gif" width="600"/> 
+  <img src="https://placehold.co/800x400/EFEFEF/333?text=Hola+Mundo" width="600"/> 
   <h1>¡Hola! Soy Jose Enrique Martí Inglés 👋</h1>
   <h3>Del sector Eléctrico al Desarrollo de Aplicaciones Multiplataforma</h3>
 </div>
