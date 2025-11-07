@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LmN8APkG9G3LzN9rK1/giphy.gif" width="600"/> 
+  <img src="https://media.giphy.com/media/qgQU1CHmSSEE7T2l57/giphy.gif" width="600"/> 
   <h1>¡Hola! Soy Jose Enrique Martí Inglés 👋</h1>
   <h3>Del sector Eléctrico al Desarrollo de Aplicaciones Multiplataforma</h3>
 </div>
