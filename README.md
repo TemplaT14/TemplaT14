@@ -46,8 +46,8 @@ Mi aprendizaje se centra en construir software de alta calidad, poniendo énfasi
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TemplaT14&show_icons=true&theme=vue-dark&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemplaT14&layout=compact&theme=vue-dark&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=TemplaT14&show_icons=true&theme=vue-dark&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TemplaT14&layout=compact&theme=vue-dark&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
