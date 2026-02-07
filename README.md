@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://placehold.co/800x400/EFEFEF/333?text=Hola+Mundo" width="600"/> 
+  <img width="2816" height="1536" alt="1" src="https://github.com/user-attachments/assets/30fec647-4635-4a95-b479-68dcaa32a3fa" />
   <h1>¡Hola! Soy Jose Enrique Martí Inglés 👋</h1>
   <h3>Desarrollo de Aplicaciones Multiplataforma</h3>
 </div>
